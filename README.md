@@ -1,4 +1,2 @@
-github
-actions
-learning,
+github actions learning,
 workflows
